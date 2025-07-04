@@ -6,7 +6,7 @@
 <!-- Intro -->
 <h1 align="center">Hey, I'm Vedant 👋</h1>
 <p align="center">
-  <strong>Full-Stack Engineer • Django Wizard • Java Dev • Product-First Builder</strong><br>
+  <strong>Full-Stack Engineer • Django Wizard • Java Dev • Web Dev • Product-First Builder</strong><br>
   <em>Think Fast. Build Bold. Always Ship.</em>
 </p>
 
