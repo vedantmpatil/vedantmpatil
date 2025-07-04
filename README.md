@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Vedant Patil Banner" />
+  <img src="banner.png" alt="Vedant Patil Banner" />
 </p>
 
 <!-- Intro -->
