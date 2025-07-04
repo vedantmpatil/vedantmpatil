@@ -6,7 +6,7 @@
 <!-- Intro -->
 <h1 align="center">Hey, I'm Vedant 👋</h1>
 <p align="center">
-  <strong>• Django Wizard • Java Dev • Product-First Builder</strong><br>
+  <strong>Full-Stack Engineer • Django Wizard • Java Dev • Product-First Builder</strong><br>
   <em>Think Fast. Build Bold. Always Ship.</em>
 </p>
 
@@ -23,45 +23,45 @@
 <!-- Projects Showcase -->
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="quantoxbay.png" width="100%" /><br>
-      <b>Quantox Bay</b><br>
-      <em>Django multivendor marketplace with Stripe, EC2 & Cloudinary.</em><br>
-      <a href="https://quantoxbay.onrender.com">🌐 Live Demo</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="insightai.jpeg" width="100%" /><br>
-      <b>Insight AI</b><br>
-      <em>AI tools for visually impaired users and keyword-based image search.</em><br>
-      <a href="https://github.com/vedantmpatil/Insight-AI">📂 View Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="hotelease.png" width="100%" /><br>
-      <b>HotelEase</b><br>
-      <em>Java Swing system with real-time hotel room and staff management.</em><br>
-      <a href="https://github.com/vedantmpatil/Hotel-Management-System-">📂 View Code</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="pepperchronicles.png" width="100%" /><br>
-      <b>PepperChronicles</b><br>
-      <em>ReactJS news app with category filtering and API integration.</em><br>
-      <a href="https://pepperchronicles.netlify.app/">🌐 Visit Site</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" /><br><br>
+        <strong>Quantox Bay</strong><br>
+        <em>Django multivendor marketplace with Stripe, EC2 & Cloudinary.</em><br>
+        <a href="https://quantoxbay.onrender.com">🌐 Live Demo</a>
+      </td>
+      <td align="center" width="50%">
+        <img src="insightai.jpeg" alt="Insight AI" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" /><br><br>
+        <strong>Insight AI</strong><br>
+        <em>AI tools for visually impaired users and keyword-based image search.</em><br>
+        <a href="https://github.com/vedantmpatil/Insight-AI">📂 View Code</a>
+      </td>
+    </tr>
+    <tr><td colspan="2"><br></td></tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="hotelease.png" alt="HotelEase" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" /><br><br>
+        <strong>HotelEase</strong><br>
+        <em>Java Swing system with real-time hotel room and staff management.</em><br>
+        <a href="https://github.com/vedantmpatil/Hotel-Management-System-">📂 View Code</a>
+      </td>
+      <td align="center" width="50%">
+        <img src="pepperchronicles.png" alt="PepperChronicles" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" /><br><br>
+        <strong>PepperChronicles</strong><br>
+        <em>ReactJS news app with category filtering and API integration.</em><br>
+        <a href="https://pepperchronicles.netlify.app/">🌐 Visit Site</a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 <!-- Socials -->
 ### 🌐 Socials:
 <p align="center">
-  <a href="https://discord.com/users/vedantpatil">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://instagram.com/vedantpatilofficial">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
