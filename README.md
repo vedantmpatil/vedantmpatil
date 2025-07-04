@@ -97,7 +97,9 @@
 </p>
 
 <p align="center">
-  <em>“Be intentional toward the main character in you — build and live the life you want.”</em>
+   <a href="mailto:vedantmpatilofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
