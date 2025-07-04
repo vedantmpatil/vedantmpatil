@@ -39,20 +39,22 @@
     <td align="center">
       <img src="hotelease.png" width="300" /><br>
       <b>HotelEase</b><br>
-      Java Swing hotel system with MySQL backend.
+      Java Swing hotel system with MySQL backend.<br>
+      <a href="https://github.com/vedantmpatil/Hotel-Management-System-" target="_blank">🌐 Visit Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="newsapp.png" width="300" /><br>
+      <img src="pepperchronicles.png" width="300" /><br>
       <b>PepperChronicles</b><br>
       Responsive ReactJS news app with API integration.<br>
-      <a href="https://pepperchronicles.netlify.app/" target="_blank">🌐 Visit Site</a>
+      <a href="https://pepperchronicles.netlify.app/" target="_blank">🌐 Live Demo</a>
     </td>
     <td align="center">
-      <img src="insightai.png" width="300" /><br>
+      <img src="insightai.jpeg" width="300" /><br>
       <b>Insight AI</b><br>
-      AI tools for visually impaired and image tagging.
+      AI tools for visually impaired and image tagging.<br>
+      <a href="https://github.com/vedantmpatil/image-by-query" target="_blank">🌐 Visit Repo</a>
     </td>
   </tr>
 </table>
