@@ -6,13 +6,8 @@
 <!-- Intro -->
 <h1 align="center">Hey, I'm Vedant 👋</h1>
 <p align="center">
-  <strong>Full-Stack Engineer • Django Wizard • Java Dev • Product-First Builder</strong><br>
+  <strong>• Django Wizard • Java Dev • Product-First Builder</strong><br>
   <em>Think Fast. Build Bold. Always Ship.</em>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantmpatil&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -30,44 +25,55 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="quantoxbay.png" width="300" /><br>
+    <td align="center" width="50%">
+      <img src="quantoxbay.png" width="100%" /><br>
       <b>Quantox Bay</b><br>
-      Django marketplace with Stripe, EC2 & Cloudinary.<br>
-      <a href="https://quantoxbay.onrender.com" target="_blank">🌐 Live Demo</a>
+      <em>Django multivendor marketplace with Stripe, EC2 & Cloudinary.</em><br>
+      <a href="https://quantoxbay.onrender.com">🌐 Live Demo</a>
     </td>
-    <td align="center">
-      <img src="hotelease.png" width="300" /><br>
-      <b>HotelEase</b><br>
-      Java Swing hotel system with MySQL backend.<br>
-      <a href="https://github.com/vedantmpatil/Hotel-Management-System-" target="_blank">🌐 Visit Repo</a>
+    <td align="center" width="50%">
+      <img src="insightai.jpeg" width="100%" /><br>
+      <b>Insight AI</b><br>
+      <em>AI tools for visually impaired users and keyword-based image search.</em><br>
+      <a href="https://github.com/vedantmpatil/Insight-AI">📂 View Code</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="pepperchronicles.png" width="300" /><br>
-      <b>PepperChronicles</b><br>
-      Responsive ReactJS news app with API integration.<br>
-      <a href="https://pepperchronicles.netlify.app/" target="_blank">🌐 Live Demo</a>
+    <td align="center" width="50%">
+      <img src="hotelease.png" width="100%" /><br>
+      <b>HotelEase</b><br>
+      <em>Java Swing system with real-time hotel room and staff management.</em><br>
+      <a href="https://github.com/vedantmpatil/Hotel-Management-System-">📂 View Code</a>
     </td>
-    <td align="center">
-      <img src="insightai.jpeg" width="300" /><br>
-      <b>Insight AI</b><br>
-      AI tools for visually impaired and image tagging.<br>
-      <a href="https://github.com/vedantmpatil/image-by-query" target="_blank">🌐 Visit Repo</a>
+    <td align="center" width="50%">
+      <img src="pepperchronicles.png" width="100%" /><br>
+      <b>PepperChronicles</b><br>
+      <em>ReactJS news app with category filtering and API integration.</em><br>
+      <a href="https://pepperchronicles.netlify.app/">🌐 Visit Site</a>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Social Links -->
-### 🌐 Find Me Online
+<!-- Socials -->
+### 🌐 Socials:
 <p align="center">
-  <a href="mailto:vedantmpatilofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20line-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://wa.me/917721837807"><img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp" /></a>
-  <a href="https://instagram.com/vedantpatilofficial"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://discord.com/users/vedantpatil">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vedantpatilofficial">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/917721837807">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:vedantmpatilofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
