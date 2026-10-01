@@ -1,380 +1,298 @@
+<!-- Banner -->
 <p align="center">
   <img src="profilebg.png" alt="Vedant Patil Banner" width="100%" />
 </p>
 
+<!-- Intro -->
 <h1 align="center">Hey, I'm Vedant 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Django • React • Java</strong><br>
+  <strong>Full Stack Developer • Django • React • Java</strong>
+</p>
+
+<p align="center">
   <em>I like turning ideas into working software.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vedantmpatilofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vedantmpatil">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/vedantpatilofficial">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://wa.me/917721837807">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,react,postgres,mysql,html,css,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,react,postgres,mysql,docker,html,css,tailwind,git" />
+</p>
+
+<p align="center">
+  <strong>Backend</strong> Django • Django REST Framework • PostgreSQL • MySQL
+  <br>
+  <strong>Frontend</strong> React • JavaScript • HTML • CSS • Tailwind
+  <br>
+  <strong>Other</strong> Java • Docker • Git • REST APIs • Deployment
 </p>
 
 ---
 
 ## 🤖 AI & Modern Development
 
-<p align="center">
-  <strong>Building with AI, not just talking about it.</strong>
-</p>
-
-<p align="center">
-  I regularly experiment with AI APIs, AI assisted development workflows,
-  prompt driven development and tools that help turn ideas into working products faster.
-</p>
+I use AI as part of the development process, from integrating AI capabilities into applications to accelerating implementation, debugging and prototyping.
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      🤖<br>
-      <strong>AI APIs</strong><br>
-      <sub>OpenAI and other third party APIs</sub>
-    </td>
-    <td align="center" width="25%">
-      ⚡<br>
-      <strong>AI Assisted Development</strong><br>
-      <sub>AI coding agents and development workflows</sub>
-    </td>
-    <td align="center" width="25%">
-      🧩<br>
-      <strong>Rapid Prototyping</strong><br>
-      <sub>Turning ideas into functional products</sub>
-    </td>
-    <td align="center" width="25%">
-      🔌<br>
-      <strong>API Integration</strong><br>
-      <sub>Connecting applications with external services</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Integration
+
+• OpenAI APIs and content moderation  
+• Google APIs and location services  
+• AI powered application features  
+• API based AI experimentation  
+• Prompt driven application workflows  
+• Practical LLM integrations  
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Assisted Development
+
+• AI assisted coding workflows  
+• Prompt engineering  
+• Rapid application prototyping  
+• AI assisted debugging and implementation  
+• Exploring different coding agents and tools  
+• Turning ideas into working prototypes quickly  
+
+</td>
+</tr>
+</table>
+
+> I treat AI as a practical development tool: something that can improve how software is built, while still understanding and owning the underlying application, architecture and implementation.
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="getitdone.png" alt="Get It Done" width="100%" height="220">
+
+### 🟢 Get It Done
+
+Production local services marketplace built with Django.
+
+**Django • DRF • PostgreSQL • Render • Cloudflare R2**
+
+Backend architecture, REST APIs, database design, deployment, storage, integrations and team coordination.
+
+<details>
+<summary>📖 Read more</summary>
+
+Built and managed the backend of a production marketplace designed to connect people with local work opportunities.
+
+Responsibilities included backend architecture, API development, PostgreSQL database design, production deployment and server configuration.
+
+Integrated OpenAI content moderation, Google location services and Cloudflare R2 for image storage.
+
+Led backend development while coordinating a team across backend, frontend and UI/UX development.
+
+</details>
+
+<br>
+
+<a href="YOUR_GID_PROJECT_LINK">📂 Explore Project</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="220">
+
+### 🟣 Quantox Bay
+
+Django based digital marketplace for selling downloadable products.
+
+**Django • PostgreSQL • Stripe • Docker**
+
+Full stack marketplace with authentication, product management, payments and media handling.
+
+<details>
+<summary>📖 Read more</summary>
+
+A full stack Django marketplace built to explore real world e commerce workflows.
+
+Implemented authentication, product management, digital product handling, Stripe payments, database integration and media management.
+
+</details>
+
+<br>
+
+<a href="https://github.com/vedantmpatil/Quantoxbay">📂 Explore Project</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+# 🧪 Selected Builds & Experiments
+
+A collection of client work, application experiments and projects that helped me explore different areas of software development.
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="gid.png" alt="Get It Done" width="100%" height="260px" />
-      <br><br>
+<tr>
 
-      <h3>🟢 Get It Done</h3>
+<td width="50%" align="center" valign="top">
 
-      <p>
-        Production local services marketplace built with Django.
-      </p>
+<img src="quickhisab.png" alt="Quick Hisab" width="100%" height="220">
 
-      <p>
-        <strong>Django • DRF • PostgreSQL • Render • R2</strong>
-      </p>
+### 🟡 Quick Hisab
 
-      <p>
-        Backend architecture, APIs, database, deployment,
-        integrations and team coordination.
-      </p>
+Offline desktop ledger application built for a client.
 
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Built and managed the backend for a production application,
-        including REST APIs, PostgreSQL database design, authentication,
-        moderation integration, cloud storage and deployment.
-        <br><br>
-        Coordinated a development team across backend, frontend and UI/UX,
-        while also handling production infrastructure and technical decisions.
-      </details>
+**React • Tauri • SQLite • AI Assisted Development**
 
-      <br>
+A private offline application for managing accounts, daily transactions, balances and backups.
 
-      <a href="https://play.google.com/">
-        📱 View on Google Play
-      </a>
-    </td>
+<details>
+<summary>📖 Read more</summary>
 
-    <td align="center" width="50%">
-      <img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="260px" />
-      <br><br>
+Built as a client project with a React frontend and Tauri desktop packaging.
 
-      <h3>🟣 Quantox Bay</h3>
+The application uses a local SQLite database and focuses on privacy, offline usage and simple financial record management.
 
-      <p>
-        Django based digital marketplace for selling downloadable products.
-      </p>
+Development involved AI assisted workflows, rapid prototyping and implementation using modern coding tools and agents.
 
-      <p>
-        <strong>Django • PostgreSQL • Stripe • Docker</strong>
-      </p>
+</details>
 
-      <p>
-        Full stack marketplace with payments, product management
-        and cloud based media handling.
-      </p>
+<br>
 
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Built to explore real world marketplace architecture,
-        authentication, product management, payment integration,
-        database design and deployment.
-      </details>
+<a href="YOUR_QUICK_HISAB_REPO_LINK">📂 Explore Project</a>
 
-      <br>
+</td>
 
-      <a href="https://quantoxbay.onrender.com">
-        🌐 Live Demo
-      </a>
-    </td>
-  </tr>
+<td width="50%" align="center" valign="top">
+
+<img src="mentormate.png" alt="MentorMate" width="100%" height="220">
+
+### 🟢 MentorMate
+
+Django based mentoring management platform built for an entrepreneur.
+
+**Django • PostgreSQL • Email**
+
+Student management, fee tracking, payment status and automated email reminders.
+
+<details>
+<summary>📖 Read more</summary>
+
+A mini SaaS concept designed for teachers, tutors and coaches to manage students and their payment records.
+
+Built features for student management, fee tracking, payment status and one click email reminders to parents.
+
+</details>
+
+<br>
+
+<a href="YOUR_MENTORMATE_REPO_LINK">📂 Explore Project</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="insightai.jpeg" alt="Insight AI" width="100%" height="220">
+
+### 🔵 Insight AI
+
+AI and accessibility focused final year project.
+
+**Python • Streamlit • Computer Vision • AI/ML**
+
+Image search, live video captioning and video summarization explored through a single application.
+
+<details>
+<summary>📖 Read more</summary>
+
+The project explored multiple AI assisted capabilities:
+
+• Query based image search  
+• Live video captioning  
+• Video summarization  
+• Object and environment description  
+• Accessibility focused use cases  
+
+The interface was built using Streamlit while the AI functionality was explored through existing models and external resources.
+
+</details>
+
+<br>
+
+<a href="https://github.com/vedantmpatil/live_video_captioning">📂 Explore Project</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="hotelease.png" alt="Hotel Management System" width="100%" height="220">
+
+### 🟠 Hotel Management System
+
+Desktop hotel management application built while exploring Java application development.
+
+**Java • Swing • MySQL • JDBC**
+
+Reception, administration, employee management, room tracking and hotel operations.
+
+<details>
+<summary>📖 Read more</summary>
+
+A Java Swing desktop application designed around common hotel management workflows.
+
+Implemented modules for reception, administration, employee management, room tracking and database operations using MySQL and JDBC.
+
+</details>
+
+<br>
+
+<a href="https://github.com/vedantmpatil/Hotel-Management-System-">📂 Explore Project</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 🧪 Experimental Builds
+## 📌 What I Enjoy Building
 
-<p align="center">
-  A collection of client work, prototypes and experiments where I explored
-  different technologies, product ideas and development workflows.
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="quickhisab.png" alt="Quick Hisab" width="100%" height="220px" />
-      <br><br>
-
-      <h3>💰 Quick Hisab</h3>
-
-      <p>
-        Offline desktop ledger and cash management application built for a client.
-      </p>
-
-      <p>
-        <strong>React • Tauri • SQLite • Excel Export</strong>
-      </p>
-
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Designed and developed an offline first desktop application
-        for managing accounts, daily entries, balances, history and reports.
-        <br><br>
-        Explored AI assisted development workflows and rapid product
-        implementation while integrating React with Tauri and a local SQLite database.
-      </details>
-    </td>
-
-    <td align="center" width="50%">
-      <img src="mentormate.png" alt="MentorMate" width="100%" height="220px" />
-      <br><br>
-
-      <h3>🟢 MentorMate</h3>
-
-      <p>
-        Django based management platform for teachers, tutors and coaches.
-      </p>
-
-      <p>
-        <strong>Django • Python • Database • Email Automation</strong>
-      </p>
-
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Built around student management, contact information,
-        fee tracking and payment reminder workflows.
-        <br><br>
-        Includes automated email reminders designed to simplify
-        communication with students and parents.
-      </details>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <img src="livecaptioning.png" alt="Live Video Captioning" width="100%" height="220px" />
-      <br><br>
-
-      <h3>🎥 Live Video Captioning</h3>
-
-      <p>
-        AI and computer vision experiment for video understanding and accessibility.
-      </p>
-
-      <p>
-        <strong>Python • Streamlit • Computer Vision • AI</strong>
-      </p>
-
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Experimented with video caption generation, live video processing,
-        audio descriptions and video summarisation.
-        <br><br>
-        The project also explored an accessibility focused use case
-        for visually impaired users.
-      </details>
-
-      <br>
-
-      <a href="https://github.com/vedantmpatil/live_video_captioning">
-        📂 View Code
-      </a>
-    </td>
-
-    <td align="center" width="50%">
-      <img src="hotelease.png" alt="Hotel Management System" width="100%" height="220px" />
-      <br><br>
-
-      <h3>🏨 Hotel Management System</h3>
-
-      <p>
-        Desktop hotel management application built while exploring Java development.
-      </p>
-
-      <p>
-        <strong>Java • Swing • MySQL • JDBC</strong>
-      </p>
-
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Includes reception, administration, employee management,
-        room tracking and hotel operations.
-        <br><br>
-        Built to explore object oriented programming and desktop
-        application development with Java.
-      </details>
-
-      <br>
-
-      <a href="https://github.com/vedantmpatil/Hotel-Management-System-">
-        📂 View Code
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <img src="insightai.jpeg" alt="AI Image and Accessibility Experiments" width="100%" height="220px" />
-      <br><br>
-
-      <h3>👁️ AI Image & Accessibility Experiments</h3>
-
-      <p>
-        Experiments around image search, object recognition and accessibility.
-      </p>
-
-      <p>
-        <strong>Python • AI • Computer Vision • Streamlit</strong>
-      </p>
-
-      <details>
-        <summary><strong>Read more</strong></summary>
-        <br>
-        Explored query based image retrieval and AI assisted descriptions
-        for visual content, including accessibility oriented use cases.
-      </details>
-    </td>
-
-    <td align="center">
-      <h3>🔬 More Experiments</h3>
-
-      <p>
-        Smaller projects and experiments across web development,
-        Django, React, APIs, JavaScript, Java, Flask and automation.
-      </p>
-
-      <p>
-        <code>Django</code>
-        <code>REST APIs</code>
-        <code>React</code>
-        <code>JavaScript</code>
-        <code>Java</code>
-        <code>Flask</code>
-        <code>AI APIs</code>
-        <code>Automation</code>
-      </p>
-
-      <br>
-
-      <a href="https://github.com/vedantmpatil?tab=repositories">
-        📂 View All Repositories
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ What I Like Building
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Django%20%26%20REST%20APIs-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-Application%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%26%20MySQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  Backend systems • APIs • Full stack applications • Product prototypes •
-  AI integrations • Automation
-</p>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmpatil&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vedantmpatilofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vedantmpatil">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vedantpatilofficial">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/917721837807">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  ✨ Thanks for visiting! ✨
-</p>
+```text
+Backend systems       → Django • REST APIs • PostgreSQL
+Full Stack products   → Django + React
+Product prototypes    → Turning ideas into working software
+AI integrations       → APIs • automation • AI assisted workflows
+Application design    → From architecture to deployment
