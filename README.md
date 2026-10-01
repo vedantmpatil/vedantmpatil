@@ -16,20 +16,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
   </a>
+  &nbsp;
   <a href="mailto:vedantmpatilofficial@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" />
   </a>
+  &nbsp;
   <a href="https://github.com/vedantmpatil">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="42" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/vedantpatilofficial">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" />
   </a>
+  &nbsp;
   <a href="https://wa.me/917721837807">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="42" />
   </a>
+</p>
 </p>
 
 ---
@@ -40,15 +45,20 @@
   <img src="https://skillicons.dev/icons?i=python,django,java,js,react,postgres,mysql,docker,html,css,tailwind,git" />
 </p>
 
-<p align="center">
-  <strong>Backend</strong> Django • Django REST Framework • PostgreSQL • MySQL
-  <br>
-  <strong>Frontend</strong> React • JavaScript • HTML • CSS • Tailwind
-  <br>
-  <strong>Other</strong> Java • Docker • Git • REST APIs • Deployment
-</p>
-
----
+<table align="center">
+<tr>
+<td><strong>Backend</strong></td>
+<td>Django • Django REST Framework • PostgreSQL • MySQL</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React • JavaScript • HTML • CSS • Tailwind</td>
+</tr>
+<tr>
+<td><strong>Development</strong></td>
+<td>Java • Docker • Git • REST APIs • Deployment</td>
+</tr>
+</table>
 
 ## 🤖 AI & Modern Development
 
@@ -57,6 +67,8 @@ I actively experiment with AI tools, APIs and AI assisted development to build f
 <table>
 <tr>
 <td width="50%" valign="top">
+
+---
 
 ### AI Integration
 
