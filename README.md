@@ -23,11 +23,14 @@
   <a href="https://github.com/vedantmpatil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://instagram.com/vedantpatilofficial">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<br>
+---
 
-## 🧠 What I Work With
+## 🧠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,sqlite,docker,git,html,css,tailwind" />
@@ -37,26 +40,24 @@
   <em>Backend APIs • Full Stack Applications • Databases • Integrations • Deployment</em>
 </p>
 
-<br>
+---
 
 ## 👨‍💻 A Little About Me
 
-I'm a full stack developer who enjoys working across the entire
-application, but my strongest focus is **Python and Django backend
-development**.
+I'm a full stack developer with a strong interest in backend development
+and building complete applications from idea to production.
 
-I enjoy building APIs, designing databases, connecting services,
-working with production deployments and turning ideas into usable
-products.
+My main focus is **Python and Django**, with **React** for frontend
+development and **Java** as another language I've worked extensively
+with.
 
-I've also worked with React on the frontend, Java for application
-development, and various third party APIs including OpenAI and Google
-APIs.
+I enjoy working with APIs, databases, integrations, deployment and
+figuring out how different pieces of an application come together.
 
-Currently focused on getting better at backend engineering,
-system design and building practical software with modern AI tools.
+I've also been experimenting with AI tools and APIs as part of both
+software development and application features.
 
-<br>
+---
 
 ## 🚀 Featured Projects
 
@@ -67,15 +68,16 @@ system design and building practical software with modern AI tools.
 </p>
 
 <p align="center">
-  <strong>A production local services marketplace built with Django.</strong>
+  <strong>Production local services marketplace built with Django.</strong>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
 </p>
 
-Built and managed the backend for a production application used by
-real users.
+A production application built with a team, where I led the backend
+development and worked across architecture, APIs, database, deployment
+and integrations.
 
 **Worked on**
 
@@ -83,10 +85,10 @@ real users.
 • PostgreSQL database and data models  
 • Production deployment and Render infrastructure  
 • Cloudflare R2 media storage  
-• OpenAI content moderation  
+• OpenAI API based content moderation  
 • Google location services  
 • WebSocket functionality  
-• Backend team coordination  
+• Backend development and team coordination  
 
 <p align="center">
   <a href="YOUR_GID_PROJECT_PAGE">
@@ -94,7 +96,7 @@ real users.
   </a>
 </p>
 
-<br>
+---
 
 ### 🟣 Quantox Bay
 
@@ -110,8 +112,8 @@ real users.
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
 </p>
 
-A full stack marketplace featuring product management,
-authentication, payments and media handling.
+A full stack marketplace built to explore real world application
+development with product management, payments and media handling.
 
 **Built with**
 
@@ -131,25 +133,24 @@ authentication, payments and media handling.
   </a>
 </p>
 
-<br>
+---
 
-### 🍽️ Django ShareMyDish
-
-A Django based social recipe platform featuring authentication,
-CRUD operations and responsive web design.
+### 🔵 Live Video Captioning
 
 <p align="center">
-  <a href="https://github.com/vedantmpatil/Django-ShareMyDish">
-    📂 View Repository
-  </a>
+  <img src="livecaptioning.png" alt="Live Video Captioning" width="90%" />
 </p>
 
-<br>
+<p align="center">
+  <strong>Python based project exploring real time video captioning.</strong>
+</p>
 
-### 🎥 Live Video Captioning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-A Python based project exploring real time video captioning and
-speech related processing.
+An exploration into video processing, speech recognition and generating
+captions from live video.
 
 <p align="center">
   <a href="https://github.com/vedantmpatil/live_video_captioning">
@@ -157,12 +158,24 @@ speech related processing.
   </a>
 </p>
 
-<br>
+---
 
-### ☕ Hotel Management System
+### 🟠 Hotel Management System
 
-A Java Swing desktop application with MySQL for hotel,
-room and staff management.
+<p align="center">
+  <img src="hotelease.png" alt="Hotel Management System" width="90%" />
+</p>
+
+<p align="center">
+  <strong>Java desktop application for hotel management.</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
+A Java Swing application with MySQL for managing hotel rooms,
+reception, staff and administrative operations.
 
 <p align="center">
   <a href="https://github.com/vedantmpatil/Hotel-Management-System-">
@@ -170,67 +183,65 @@ room and staff management.
   </a>
 </p>
 
-<br>
+---
 
-## 🤖 Exploring AI
+## 🧪 Experiments & Other Builds
 
-AI has become part of how I build software, not just something I
-experiment with separately.
+A collection of smaller projects, experiments and ideas I've explored
+across web development, AI, APIs and desktop applications.
 
-I've worked with:
+**Quick Hisab** · Offline desktop ledger built with React, Tauri and
+SQLite, with Excel backup and export workflows.
 
-• OpenAI APIs and content moderation  
-• AI assisted development workflows  
-• Internal Copilot based productivity tooling  
-• API integrations involving AI services  
+**PepperChronicles** · React based news application using external APIs.
 
-Currently exploring how LLMs can be integrated into real applications
-through APIs, tools and structured workflows.
+**iNoteBook** · Full stack note taking application built with React,
+Node.js and MongoDB.
 
-<br>
+**Sentiment Highlighter** · Chrome extension experimenting with
+sentiment analysis through the Hugging Face API.
 
-## 📚 Currently Learning
+**Steganography** · Browser based experiment exploring image and text
+steganography.
 
-<p align="center">
+**Ecommerce Web App** · React based frontend eCommerce project.
 
-🐍 Django & Backend Architecture  
-🗄️ PostgreSQL  
-⚡ Modern API Development  
-🤖 LLM Applications  
-🧪 Testing & Code Quality  
-🐳 Docker  
+[View all repositories →](https://github.com/vedantmpatil?tab=repositories)
 
-</p>
+---
 
-<br>
+## 🤖 AI & Automation
 
-## 🌐 Find Me
+I've been experimenting with AI both **inside applications** and as a
+tool for building software.
 
-<p align="center">
+### Application Integrations
 
-<a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+• OpenAI API for content moderation in Get It Done  
+• Google APIs for location based functionality  
+• Hugging Face NLP API for sentiment analysis  
 
-<a href="https://instagram.com/vedantpatilofficial">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+### Developer & Workflow Automation
 
-<a href="mailto:vedantmpatilofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+• Built a Copilot based agent for automatically preparing structured
+ticket updates from short progress inputs  
+• Experimented with AI assisted development workflows across projects  
+• Used AI tools to rapidly prototype interfaces, application flows and
+product ideas  
 
-</p>
+I'm particularly interested in the practical side of AI: using APIs,
+automation and developer tools to make real software faster and more
+useful.
 
-<br>
+---
 
-## 📊 GitHub Activity
+## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmpatil&theme=tokyonight&hide_border=true" />
+  <strong>Django • Backend Architecture • PostgreSQL • API Design • Testing • AI Applications</strong>
 </p>
 
-<br>
+---
 
 <p align="center">
   <em>Still learning. Still building. Still shipping. 🚀</em>
