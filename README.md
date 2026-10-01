@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I like turning ideas into working software.
+  <em>I like turning ideas into working software.</em>
 </p>
 
 <p align="center">
@@ -38,9 +38,74 @@
   <br>
   <strong>Frontend:</strong> React, JavaScript, HTML, CSS, Tailwind
   <br>
-  <strong>Database:</strong> PostgreSQL, MySQL, SQLite
+  <strong>Databases:</strong> PostgreSQL, MySQL, SQLite
   <br>
-  <strong>Other:</strong> Git, Docker, Tauri, REST APIs, Cloudflare R2
+  <strong>Tools:</strong> Git, Docker, Tauri, REST APIs, Cloudflare R2
+</p>
+
+---
+
+# 🤖 AI & Modern Development
+
+<p align="center">
+  <strong>Building with AI, not just talking about it.</strong>
+</p>
+
+<p align="center">
+  I actively experiment with AI tools, APIs and AI assisted development to turn ideas into working software faster.
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔌 AI APIs
+
+Integrating AI capabilities into real applications rather than keeping them as isolated experiments.
+
+<br>
+
+**OpenAI APIs**  
+Content moderation  
+AI powered workflows
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ AI Assisted Development
+
+Using modern AI coding tools to explore ideas, prototype features, debug problems and accelerate development.
+
+<br>
+
+**Prompt Engineering**  
+AI assisted coding  
+Rapid prototyping
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 AI Experiments
+
+Exploring different AI applications through image, video, text and automation projects.
+
+<br>
+
+Image understanding  
+Video processing  
+AI powered search
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <em>
+    My approach is to combine AI with conventional software engineering,
+    APIs, databases and product workflows to build useful applications.
+  </em>
 </p>
 
 ---
@@ -49,6 +114,7 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <p align="center">
@@ -70,12 +136,12 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.getitdone.gid">
+  <a href="YOUR_GOOGLE_PLAY_LINK">
     📱 Google Play
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/vedantmpatil/GETITDONE-BACKEND">
-    📂 Backend
+  <a href="YOUR_GID_REPOSITORY_LINK">
+    📂 Project
   </a>
 </p>
 
@@ -88,7 +154,7 @@ Get It Done is a production local services marketplace designed to connect peopl
 
 I led the backend development and worked across the application architecture, REST APIs, PostgreSQL database, deployment and third party integrations.
 
-The system uses Cloudflare R2 for image storage, Render for backend and database infrastructure, OpenAI moderation for content safety and Google location services for location related functionality.
+The system uses Cloudflare R2 for image storage, Render for infrastructure, OpenAI moderation for content safety and location related APIs for location functionality.
 
 I also coordinated a four person development team across backend, frontend and UI/UX work.
 
@@ -113,7 +179,7 @@ I also coordinated a four person development team across backend, frontend and U
 </p>
 
 <p align="center">
-  Full stack marketplace with authentication, product management and payments.
+  Full stack marketplace with authentication, product management and payment integration.
 </p>
 
 <p align="center">
@@ -133,16 +199,18 @@ I also coordinated a four person development team across backend, frontend and U
 
 Quantox Bay is a full stack Django marketplace where creators can list and sell digital products.
 
-The project includes user authentication, product management, marketplace functionality, payment integration using Stripe and media management through Cloudinary.
+The project includes authentication, product management, marketplace functionality, Stripe payment integration and Cloudinary based media management.
 
 PostgreSQL is used for persistent data and Docker was used during development and deployment.
 
 </details>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <p align="center">
@@ -152,7 +220,7 @@ PostgreSQL is used for persistent data and Docker was used during development an
 <h3 align="center">🔵 MentorMate</h3>
 
 <p align="center">
-  Django based mini SaaS concept for teachers, tutors and coaches.
+  Django based mini SaaS for teachers, tutors and coaches.
 </p>
 
 <p align="center">
@@ -228,6 +296,7 @@ The project remained a prototype and was primarily used to explore the underlyin
 </details>
 
 </td>
+
 </tr>
 </table>
 
@@ -235,24 +304,26 @@ The project remained a prototype and was primarily used to explore the underlyin
 
 # 🧪 Experiments & Other Builds
 
-A collection of projects where I explored different technologies, ideas and development approaches.
+<p align="center">
+  A collection of projects where I explored different technologies,
+  product ideas and development approaches.
+</p>
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🧾 Quick Hisab
 
-Offline desktop ledger application built with React, Tauri and SQLite.
+Offline desktop ledger application.
 
 **React • Tauri • SQLite**
 
 <details>
-<summary>Details</summary>
+<summary>Read more</summary>
 
-<br>
-
-Private desktop application for managing accounts, daily transactions, balances, history and Excel backups.
+Private desktop application for account management, daily transactions, balances, history and Excel backups.
 
 </details>
 
@@ -262,16 +333,14 @@ Private desktop application for managing accounts, daily transactions, balances,
 
 ### 🤖 AI Image Retrieval
 
-Exploration of query based image retrieval, object recognition and audio descriptions.
+Exploration of query based image retrieval and object recognition.
 
 **Python • AI • ML**
 
 <details>
-<summary>Details</summary>
+<summary>Read more</summary>
 
-<br>
-
-A project exploring image search through descriptive queries and object identification with accessibility related applications.
+Explored image retrieval through descriptive queries, object identification and audio descriptions with accessibility related applications.
 
 </details>
 
@@ -286,23 +355,23 @@ Desktop hotel management application.
 **Java • Swing • MySQL**
 
 <details>
-<summary>Details</summary>
-
-<br>
+<summary>Read more</summary>
 
 Java Swing application covering hotel rooms, reception, administration, employees and booking related workflows.
 
 </details>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="33%" align="center">
 
 ### 📰 PepperChronicles
 
-React based news application with API integration.
+React based news application.
 
 **React • JavaScript • REST API**
 
@@ -327,19 +396,32 @@ Browser based information hiding experiment.
 **JavaScript • Cryptography**
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💡 What I Like Building
+## 🛠️ What I Enjoy Building
 
-```text
-Django backends
-REST APIs
-Full stack web applications
-Production focused products
-Database driven systems
-API integrations
-Automation workflows
-AI assisted applications
+<p align="center">
+
+`Django Backends` • `REST APIs` • `Full Stack Applications` •
+`Database Driven Systems` • `API Integrations` •
+`Automation` • `AI Assisted Applications`
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting! 👋</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-patil-389b862a6/">LinkedIn</a>
+  •
+  <a href="mailto:vedantmpatilofficial@gmail.com">Email</a>
+  •
+  <a href="https://github.com/vedantmpatil">GitHub</a>
+</p>
