@@ -31,9 +31,11 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="42" />
   </a>
   &nbsp;
-  <a href="https://wa.me/917721837807">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="42" />
+  
+  <a href="https://wa.me/917721837807" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" />
   </a>
+  &nbsp;
 </p>
 </p>
 
