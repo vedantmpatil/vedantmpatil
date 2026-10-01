@@ -158,7 +158,7 @@ A Django based SaaS concept built for an entrepreneur to manage students and men
 
 Student management, fee tracking, payment status and one click email reminders for parents.
 
-<a href="YOUR_MENTORMATE_REPO_LINK">
+<a href="https://github.com/vedantmpatil/MentorMate">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
