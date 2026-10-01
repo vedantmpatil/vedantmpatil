@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="profilebg.png" alt="Vedant Patil Banner" />
+  <img src="profilebg.png" alt="Vedant Patil Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Vedant 👋</h1>
@@ -9,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>I like turning ideas into working software.</em>
+  I like turning ideas into working software.
 </p>
 
 <p align="center">
@@ -22,172 +23,323 @@
   <a href="https://github.com/vedantmpatil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/vedantpatilofficial">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,docker,git,html,css,tailwind,tauri" />
+</p>
+
+<p align="center">
+  <strong>Backend:</strong> Django, Django REST Framework, Python
+  <br>
+  <strong>Frontend:</strong> React, JavaScript, HTML, CSS, Tailwind
+  <br>
+  <strong>Database:</strong> PostgreSQL, MySQL, SQLite
+  <br>
+  <strong>Other:</strong> Git, Docker, Tauri, REST APIs, Cloudflare R2
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="getitdone.png" alt="Get It Done" width="100%" />
+</p>
+
+<h3 align="center">🟢 Get It Done</h3>
+
+<p align="center">
+  Production local services marketplace built with Django.
+</p>
+
+<p align="center">
+  <strong>Django • DRF • PostgreSQL • Render • R2</strong>
+</p>
+
+<p align="center">
+  Backend architecture, APIs, database, deployment, integrations and team coordination.
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.getitdone.gid">
+    📱 Google Play
   </a>
-  <a href="https://wa.me/917721837807">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<h2>🧠 Tech Arsenal</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,sqlite,docker,cloudflare,git,html,css,tailwind" />
-</p>
-
-<p align="center">
-  <em>Backend APIs • Full Stack Applications • Databases • Integrations • Deployment</em>
-</p>
-
-<br>
-
-<h2>👨‍💻 A Little About Me</h2>
-
-<p>
-I'm a full stack developer with a strong interest in backend development
-and building complete applications from idea to production.
-</p>
-
-<p>
-My main focus is <strong>Python and Django</strong>, with
-<strong>React</strong> for frontend development and
-<strong>Java</strong> as another language I've worked extensively with.
-</p>
-
-<p>
-I enjoy working with APIs, databases, integrations, deployment and
-figuring out how different pieces of an application come together.
-I've also experimented with AI APIs and AI powered developer tools
-across different projects.
-</p>
-
-<br>
-
-<h2>🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="YOUR_GID_PROJECT_LINK">
-    <img src="getitdone.png" alt="Get It Done" width="47%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vedantmpatil/Quantoxbay">
-    <img src="quantoxbay.png" alt="Quantox Bay" width="47%" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>🟢 Get It Done</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>🟣 Quantox Bay</strong>
-</p>
-
-<p align="center">
-  Production Django marketplace
   &nbsp; • &nbsp;
-  Django digital marketplace
+  <a href="https://github.com/vedantmpatil/GETITDONE-BACKEND">
+    📂 Backend
+  </a>
+</p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+Get It Done is a production local services marketplace designed to connect people who need work with people who can complete it.
+
+I led the backend development and worked across the application architecture, REST APIs, PostgreSQL database, deployment and third party integrations.
+
+The system uses Cloudflare R2 for image storage, Render for backend and database infrastructure, OpenAI moderation for content safety and Google location services for location related functionality.
+
+I also coordinated a four person development team across backend, frontend and UI/UX work.
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="quantoxbay.png" alt="Quantox Bay" width="100%" />
+</p>
+
+<h3 align="center">🟣 Quantox Bay</h3>
+
+<p align="center">
+  Django based digital marketplace for selling downloadable products.
 </p>
 
 <p align="center">
-  <a href="YOUR_GID_PROJECT_LINK">📖 Read More</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vedantmpatil/Quantoxbay">📖 Read More</a>
+  <strong>Django • PostgreSQL • Stripe • Docker • Cloudinary</strong>
 </p>
 
+<p align="center">
+  Full stack marketplace with authentication, product management and payments.
+</p>
+
+<p align="center">
+  <a href="https://quantoxbay.onrender.com">
+    🌐 Live Demo
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/vedantmpatil/Quantoxbay">
+    📂 Source Code
+  </a>
+</p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
 <br>
+
+Quantox Bay is a full stack Django marketplace where creators can list and sell digital products.
+
+The project includes user authentication, product management, marketplace functionality, payment integration using Stripe and media management through Cloudinary.
+
+PostgreSQL is used for persistent data and Docker was used during development and deployment.
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="mentormate.png" alt="MentorMate" width="100%" />
+</p>
+
+<h3 align="center">🔵 MentorMate</h3>
+
+<p align="center">
+  Django based mini SaaS concept for teachers, tutors and coaches.
+</p>
+
+<p align="center">
+  <strong>Django • Python • Database • Email Automation</strong>
+</p>
+
+<p align="center">
+  Student management, contact records, fee tracking and payment reminders.
+</p>
+
+<p align="center">
+  <a href="https://github.com/vedantmpatil/MentorMate">
+    📂 Source Code
+  </a>
+</p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+MentorMate was developed around an entrepreneur's idea for a platform to help teachers, tutors and coaches manage their students.
+
+The application focused on maintaining student information and contact details, tracking fees and simplifying payment follow ups.
+
+A key workflow allowed payment reminder emails to be sent to parents when fees were due.
+
+The project gave me practical experience translating a business idea into a working Django application.
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="livecaptioning.png" alt="Video Captioning and Summarization" width="100%" />
+</p>
+
+<h3 align="center">🟠 Video Captioning & Summarization</h3>
+
+<p align="center">
+  Python based exploration of video captioning, audio output and summarization.
+</p>
+
+<p align="center">
+  <strong>Python • Video Processing • Captioning • Summarization</strong>
+</p>
+
+<p align="center">
+  Multiple prototypes covering local video processing, GUI and Streamlit interfaces.
+</p>
 
 <p align="center">
   <a href="https://github.com/vedantmpatil/live_video_captioning">
-    <img src="livecaptioning.png" alt="Live Video Captioning" width="47%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vedantmpatil/Hotel-Management-System-">
-    <img src="hotelease.png" alt="Hotel Management System" width="47%" />
+    📂 Source Code
   </a>
 </p>
 
-<p align="center">
-  <strong>🔵 Live Video Captioning</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>🟠 Hotel Management</strong>
-</p>
-
-<p align="center">
-  Python video captioning
-  &nbsp; • &nbsp;
-  Java Swing + MySQL
-</p>
-
-<p align="center">
-  <a href="https://github.com/vedantmpatil/live_video_captioning">📖 Read More</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vedantmpatil/Hotel-Management-System-">📖 Read More</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vedantmpatil?tab=repositories">
-    <strong>🔎 Explore All Repositories</strong>
-  </a>
-</p>
+<details>
+<summary><strong>Read more</strong></summary>
 
 <br>
 
-<h2>🤖 AI & Automation</h2>
+This project explored ways of making video content easier to consume by combining caption generation, audio output and automated summarization.
 
-<p>
-I've been experimenting with AI both inside applications and as a
-development tool.
-</p>
+The repository contains prototypes for local video processing, GUI based interaction, Streamlit integration and an early live captioning workflow.
 
-<ul>
-  <li>OpenAI API for content moderation in Get It Done</li>
-  <li>Google APIs for location based functionality</li>
-  <li>Hugging Face NLP API for sentiment analysis</li>
-  <li>Built a Copilot based agent to structure internal ticket updates</li>
-  <li>Experimented with AI assisted development across multiple projects</li>
-  <li>Used AI tools to rapidly prototype interfaces, application flows and ideas</li>
-</ul>
+One potential application explored through the project was accessibility for users who could benefit from textual or audio representations of video content.
 
-<p>
-I enjoy the practical side of AI, especially using APIs and automation
-to make real software more useful and development workflows more efficient.
-</p>
+The project remained a prototype and was primarily used to explore the underlying technologies and workflows.
 
-<br>
+</details>
 
-<h2>🧪 Experiments & Side Builds</h2>
+</td>
+</tr>
+</table>
 
-<p>
-I've built and experimented with a range of smaller projects across web
-development, APIs, AI, desktop applications and product ideas.
-</p>
+---
 
-<p align="center">
-  <strong>Quick Hisab</strong> · React + Tauri + SQLite desktop ledger
-  &nbsp; • &nbsp;
-  <strong>PepperChronicles</strong> · React + News API
-  &nbsp; • &nbsp;
-  <strong>iNoteBook</strong> · React + Node.js + MongoDB
-</p>
+# 🧪 Experiments & Other Builds
 
-<p align="center">
-  <strong>Sentiment Highlighter</strong> · Chrome extension + NLP API
-  &nbsp; • &nbsp;
-  <strong>Steganography</strong> · Browser based security experiment
-  &nbsp; • &nbsp;
-  <strong>Ecommerce Web App</strong> · React
-</p>
+A collection of projects where I explored different technologies, ideas and development approaches.
 
-<p align="center">
-  <a href="https://github.com/vedantmpatil?tab=repositories">
-    🔎 Explore more experiments and projects
-  </a>
-</p>
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧾 Quick Hisab
+
+Offline desktop ledger application built with React, Tauri and SQLite.
+
+**React • Tauri • SQLite**
+
+<details>
+<summary>Details</summary>
 
 <br>
 
-<p align="center">
-  <em>Still learning. Still building. Still shipping. 🚀</em>
-</p>
+Private desktop application for managing accounts, daily transactions, balances, history and Excel backups.
+
+</details>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI Image Retrieval
+
+Exploration of query based image retrieval, object recognition and audio descriptions.
+
+**Python • AI • ML**
+
+<details>
+<summary>Details</summary>
+
+<br>
+
+A project exploring image search through descriptive queries and object identification with accessibility related applications.
+
+</details>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏨 HotelEase
+
+Desktop hotel management application.
+
+**Java • Swing • MySQL**
+
+<details>
+<summary>Details</summary>
+
+<br>
+
+Java Swing application covering hotel rooms, reception, administration, employees and booking related workflows.
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 📰 PepperChronicles
+
+React based news application with API integration.
+
+**React • JavaScript • REST API**
+
+</td>
+
+<td width="33%" align="center">
+
+### 📝 iNoteBook
+
+Full stack note taking application.
+
+**React • Node.js • Express • MongoDB**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Steganography
+
+Browser based information hiding experiment.
+
+**JavaScript • Cryptography**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 What I Like Building
+
+```text
+Django backends
+REST APIs
+Full stack web applications
+Production focused products
+Database driven systems
+API integrations
+Automation workflows
+AI assisted applications
