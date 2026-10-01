@@ -65,53 +65,41 @@
 ---
 
 
+
 ## AI & Modern Development
 
-I use AI both as a development tool and as a building block for software, from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
+I use AI both as a development tool and as a building block for software — from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-### AI Integration
+**01 · INTEGRATE**
 
-• OpenAI APIs & moderation  
-• Google APIs & services  
-• AI powered application features  
-• Computer vision & image AI  
-• External AI models  
+OpenAI APIs • Google APIs • Computer Vision • AI Features
 
 </td>
 
 <td width="33%" valign="top">
 
-### AI Assisted Development
+**02 · BUILD & ASSIST**
 
-• AI coding assistants & agents  
-• Rapid UI & product prototyping  
-• AI assisted debugging & testing  
-• Code generation & refinement  
-• Development automation  
+ChatGPT • Claude • Coding Agents • Lovable • AI-assisted Debugging
 
 </td>
 
 <td width="33%" valign="top">
 
-### Tools & Experimentation
+**03 · EXPERIMENT**
 
-• ChatGPT & Claude  
-• Lovable & AI coding agents  
-• AI APIs & external models  
-• Rapid prototyping workflows  
-• New AI tools & workflows  
+AI APIs • External Models • Rapid Prototyping • Automation
 
 </td>
-
 </tr>
 </table>
 
-> **I treat AI as a force multiplier, not a replacement for engineering fundamentals. I use it to work smarter, prototype faster, solve problems, and continuously stay current with modern development.**
+> **AI is a force multiplier, not a replacement for engineering fundamentals.**
+> I use it to work smarter, prototype faster, solve problems, and stay current with modern development.
 
 ---
 
