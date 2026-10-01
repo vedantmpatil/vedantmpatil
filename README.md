@@ -80,7 +80,7 @@ I use AI both as a development tool and as a building block for software, from r
 • Google APIs & services  
 • AI powered application features  
 • Computer vision & image AI  
-• External AI model experimentation  
+• External AI models  
 
 </td>
 
@@ -92,7 +92,7 @@ I use AI both as a development tool and as a building block for software, from r
 • Rapid UI & product prototyping  
 • AI assisted debugging & testing  
 • Code generation & refinement  
-• Development workflow automation  
+• Development automation  
 
 </td>
 
