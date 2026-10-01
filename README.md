@@ -94,7 +94,7 @@ AI APIs • External Models • Rapid Prototyping • Automation
 </tr>
 </table>
 
-> **AI is a force multiplier, not a replacement for engineering fundamentals.**
+> **AI is a force multiplier, not a replacement for engineering fundamentals.**  
 > I use it to work smarter, prototype faster, solve problems, and keep pace with modern development.
 
 ---
@@ -235,6 +235,7 @@ Browser extension using Hugging Face NLP to analyze sentiment and highlight web 
 **JavaScript • Cryptography • Web**
 
 Browser based tool for hiding and extracting messages using image and linguistic steganography.
+
 </td>
 
 </tr>
