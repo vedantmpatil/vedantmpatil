@@ -132,7 +132,7 @@ Backend architecture, REST APIs, database design, deployment, integrations and t
 
 Django based digital marketplace for selling downloadable products.
 
-**Django • PostgreSQL • Stripe • Docker**
+**Django • DRF • PostgreSQL • Stripe • Docker**
 
 Authentication, product management, payments, media handling and marketplace workflows.
 
