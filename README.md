@@ -31,12 +31,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="42" />
   </a>
   &nbsp;
-  
   <a href="https://wa.me/917721837807" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" />
   </a>
   &nbsp;
-</p>
 </p>
 
 ---
@@ -63,8 +61,6 @@
 </table>
 
 ---
-
-
 
 ## AI & Modern Development
 
@@ -110,7 +106,7 @@ AI APIs • External Models • Rapid Prototyping • Automation
 
 <td width="50%" align="center" valign="top">
 
-<img src="getitdone.png" alt="Get It Done" width="100%" height="220">
+<img src="getitdone.png" alt="Get It Done" width="100%" height="220" />
 
 ### 🟢 Get It Done
 
@@ -120,6 +116,8 @@ Production local services marketplace built with Django.
 
 Backend architecture, REST APIs, database design, deployment, integrations and team coordination.
 
+**Live application available on Google Play.**
+
 <a href="YOUR_GID_PROJECT_LINK">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -128,7 +126,7 @@ Backend architecture, REST APIs, database design, deployment, integrations and t
 
 <td width="50%" align="center" valign="top">
 
-<img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="220">
+<img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="220" />
 
 ### 🟣 Quantox Bay
 
@@ -150,7 +148,7 @@ Authentication, product management, payments, media handling and marketplace wor
 
 <td width="50%" align="center" valign="top">
 
-<img src="mentormate.png" alt="MentorMate" width="100%" height="220">
+<img src="mentormate.png" alt="MentorMate" width="100%" height="220" />
 
 ### 🟢 MentorMate
 
@@ -168,7 +166,7 @@ Student management, fee tracking, payment status and one click email reminders f
 
 <td width="50%" align="center" valign="top">
 
-<img src="insightai.jpeg" alt="Insight AI" width="100%" height="220">
+<img src="insightai.jpeg" alt="Insight AI" width="100%" height="220" />
 
 ### 🔵 Insight AI
 
