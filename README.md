@@ -6,106 +6,91 @@
 <h1 align="center">Hey, I'm Vedant 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Python • Django • React</strong><br>
-  Building backend systems, APIs and production applications.
+  <strong>Full-Stack Developer • Python • Django • React • Java</strong><br>
+  <em>Building things, breaking things, and figuring out how they work.</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a full-stack developer with a strong focus on **Python, Django and REST APIs**.
-
-I enjoy building products from the backend architecture and database layer
-through API development, frontend integration and production deployment.
-
-Currently working as a **Consultant – Packaging Implementation** while
-building and maintaining software projects with small development teams.
-
-### What I work with
-
-- **Backend:** Python, Django, Django REST Framework, C# / .NET
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Databases:** PostgreSQL, SQLite, MySQL
-- **Cloud & Deployment:** Docker, Render, AWS, Cloudflare R2
-- **Integrations:** REST APIs, OpenAI APIs, Google APIs, Stripe, WebSockets
-- **Tools:** Git, GitHub, ServiceNow
-
----
-
-## 🚀 Featured Projects
-
-### Get It Done
-
-**Production local-services marketplace**
-
-A Django-based marketplace connecting people who need everyday tasks
-with people who can complete them.
-
-**My contribution:**
-- Led backend architecture and API development
-- Designed and implemented backend functionality
-- Worked with PostgreSQL and production database management
-- Managed production deployment and infrastructure
-- Integrated Cloudflare R2 for media storage
-- Integrated OpenAI for content moderation
-- Integrated Google Places APIs
-- Worked with real-time functionality using WebSockets
-- Led backend development within a 4-member team
-
-**Tech:** Django · Django REST Framework · PostgreSQL · Render ·
-Cloudflare R2 · OpenAI · Google APIs · WebSockets
-
----
-
-### Quantox Bay
-
-**Django-powered digital marketplace for digital products**
-
-A full-stack marketplace with vendor functionality, product management,
-payments and media handling.
-
-**Tech:** Django · PostgreSQL · Stripe · Docker · AWS · Cloudinary
-
----
-
-### Django ShareMyDish
-
-**Django-based social recipe platform**
-
-A full-stack Django application with authentication, CRUD operations,
-database integration and responsive UI.
-
-**Tech:** Django · SQLite · HTML · CSS · JavaScript
-
----
-
-## 🧠 Currently Exploring
-
-- Advanced Django & backend architecture
-- REST API design and scalability
-- PostgreSQL and database optimization
-- Background processing and asynchronous systems
-- AI-assisted software development
-- LLM-powered applications and API integrations
-
----
-
-## 📌 Engineering Interests
-
-**Backend Architecture · API Design · Django · PostgreSQL ·
-Production Deployment · AI-assisted Development**
-
----
-
-## 🔗 Connect
-
-- LinkedIn
-- Email
-- GitHub
-
----
+### 🧠 My Stack
 
 <p align="center">
-  <i>Building, learning and shipping.</i>
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,docker,git,html,css,tailwind" />
 </p>
+
+<p align="center">
+  <sub>
+    Backend • APIs • Databases • Full-Stack Applications • Deployment
+  </sub>
+</p>
+
+---
+
+### 👨‍💻 A Little About Me
+
+I like building things end-to-end — from figuring out the database
+and API architecture to connecting the frontend and getting the
+application running in production.
+
+My main focus is **Django and backend development**, with React on the
+frontend.
+
+I've also worked on production applications, third-party API
+integrations, cloud deployment, and AI-powered features.
+
+Currently exploring better backend architecture, scalable APIs and
+modern AI-assisted development.
+
+---
+
+### 🚀 Things I've Built
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+
+### 🟢 Get It Done
+
+Production local-services marketplace built with Django.
+
+**Django • DRF • PostgreSQL • Render • R2**
+
+Backend architecture, APIs, deployment, database,
+team coordination and third-party integrations.
+
+<a href="YOUR_GID_REPO_LINK">📂 Explore Project</a>
+
+    </td>
+
+    <td width="50%" align="center">
+
+### 🟣 Quantox Bay
+
+Django-based digital marketplace for
+selling downloadable products.
+
+**Django • PostgreSQL • Stripe • Docker**
+
+<a href="https://github.com/vedantmpatil/Quantoxbay">📂 Explore Project</a>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Things I've Played With
+
+```text
+Python / Django / DRF
+React / JavaScript
+Java
+PostgreSQL / MySQL / SQLite
+Docker
+REST APIs
+WebSockets
+OpenAI APIs
+Google APIs
+Stripe
+Cloudflare R2
+Git / GitHub
