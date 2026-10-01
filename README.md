@@ -168,7 +168,7 @@ Student management, fee tracking, payment status and one click email reminders f
 
 <td width="50%" align="center" valign="top">
 
-<img src="insightai.png" alt="Insight AI" width="100%" height="220">
+<img src="insightai.jpeg" alt="Insight AI" width="100%" height="220">
 
 ### 🔵 Insight AI
 
