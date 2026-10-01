@@ -62,7 +62,7 @@
 
 ---
 
-## AI & Modern Development
+## ⚡ AI & Modern Development
 
 I use AI both as a development tool and as a building block for software — from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
 
@@ -150,7 +150,7 @@ Authentication, product management, payments, media handling and marketplace wor
 
 <img src="mentormate.png" alt="MentorMate" width="100%" height="220" />
 
-### 🟢 MentorMate
+### 🟡 MentorMate
 
 A Django based SaaS concept built for an entrepreneur to manage students and mentoring payments.
 
@@ -168,7 +168,7 @@ Student management, fee tracking, payment status and one click email reminders f
 
 <img src="insightai.jpeg" alt="Insight AI" width="100%" height="220" />
 
-### 🔵 Insight AI
+### 🟠 Insight AI
 
 Final year AI project exploring image understanding and accessibility.
 
