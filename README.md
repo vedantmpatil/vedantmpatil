@@ -105,7 +105,9 @@ Production local services marketplace built with Django.
 
 Backend architecture, REST APIs, database design, deployment, integrations and team coordination.
 
-<a href="YOUR_GID_PROJECT_LINK">📂 Explore Project</a>
+<a href="YOUR_GID_PROJECT_LINK">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -121,7 +123,9 @@ Django based digital marketplace for selling downloadable products.
 
 Authentication, product management, payments, media handling and marketplace workflows.
 
-<a href="https://github.com/vedantmpatil/Quantoxbay">📂 Explore Project</a>
+<a href="https://github.com/vedantmpatil/Quantoxbay">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -141,7 +145,9 @@ A Django based SaaS concept built for an entrepreneur to manage students and men
 
 Student management, fee tracking, payment status and one click email reminders for parents.
 
-<a href="YOUR_MENTORMATE_REPO_LINK">📂 Explore Project</a>
+<a href="YOUR_MENTORMATE_REPO_LINK">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -157,7 +163,9 @@ Final year AI project exploring image understanding and accessibility.
 
 Image search, live video captioning, video summarization and an accessibility focused use case.
 
-<a href="https://github.com/vedantmpatil/live_video_captioning">📂 Explore Project</a>
+<a href="https://github.com/vedantmpatil/live_video_captioning">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -179,17 +187,41 @@ Smaller projects, prototypes and client builds where I explored different techno
 
 **React • Tauri • SQLite**
 
-Offline desktop ledger built for a client, with local data storage, account management, reports and Excel backup.
+Offline desktop ledger built for a client with local data storage, account management, reports and Excel backup.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎵 SBVify
+### 🏷️ Tag Spark Visual
 
-**React • JavaScript**
+**React • TypeScript • Flask • AI/ML**
 
-Simple web based music player built to explore frontend development and interactive UI.
+Full stack AI image tagging and search using BLIP, spaCy and natural language queries.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Sentiment Highlighter
+
+**JavaScript • Chrome Extension • NLP**
+
+Browser extension using Hugging Face NLP to analyze sentiment and highlight web content.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Steganography
+
+**JavaScript • Cryptography • Web**
+
+Browser based tool for hiding and extracting messages through image and linguistic steganography.
 
 </td>
 
@@ -203,17 +235,17 @@ Simple web based music player built to explore frontend development and interact
 
 **Java • Swing • MySQL • JDBC**
 
-Desktop application exploring Java development with room, reception and employee management.
+Desktop application exploring Java, OOP and database driven application development.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🍽️ Share My Dish
+### 📓 iNoteBook
 
-**React • JavaScript**
+**React • Node.js • MongoDB • JWT**
 
-A web development project built to explore frontend interfaces and application workflows.
+Full stack note taking application with authentication and CRUD functionality.
 
 </td>
 
@@ -228,11 +260,6 @@ A web development project built to explore frontend interfaces and application w
 
 ---
 
-## 📌 What I Enjoy Building
-
-```text
-Backend systems       → Django • REST APIs • PostgreSQL
-Full Stack products   → Django + React
-Product prototypes    → Turning ideas into working software
-AI integrations       → APIs • automation • AI assisted workflows
-Application design    → From architecture to deployment
+<p align="center">
+  <strong><em>“Always learning. Always building. Always experimenting.”</em></strong>
+</p>
