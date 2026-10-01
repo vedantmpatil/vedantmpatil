@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>I like turning ideas into working software.</em>
+  <em>I turn ideas into working software.</em>
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 
 ## ⚡ AI & Modern Development
 
-I use AI both as a development tool and as a building block for software — from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
+I use AI both as a development tool and a building block for software, from rapid prototyping and assisted development to integrating AI capabilities into real applications.
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ I use AI both as a development tool and as a building block for software — fro
 
 **01 · INTEGRATE**
 
-OpenAI APIs • Google APIs • Computer Vision • AI Features
+OpenAI APIs • Google APIs • Computer Vision • AI-powered Features
 
 </td>
 
@@ -80,7 +80,7 @@ OpenAI APIs • Google APIs • Computer Vision • AI Features
 
 **02 · BUILD & ASSIST**
 
-ChatGPT • Claude • Coding Agents • Lovable • AI-assisted Debugging
+ChatGPT • Claude • Coding Agents • Lovable • AI-assisted Development
 
 </td>
 
@@ -95,7 +95,7 @@ AI APIs • External Models • Rapid Prototyping • Automation
 </table>
 
 > **AI is a force multiplier, not a replacement for engineering fundamentals.**
-> I use it to work smarter, prototype faster, solve problems, and stay current with modern development.
+> I use it to work smarter, prototype faster, solve problems, and keep pace with modern development.
 
 ---
 
@@ -110,11 +110,11 @@ AI APIs • External Models • Rapid Prototyping • Automation
 
 ### 🟢 Get It Done
 
-Production local services marketplace built with Django.
+Production local services marketplace built with Django and REST APIs.
 
 **Django • DRF • PostgreSQL • Render • Cloudflare R2**
 
-Backend architecture, REST APIs, database design, deployment, integrations and team coordination.
+Backend architecture, API design, database design, integrations, deployment and technical coordination across the team.
 
 **Live application available on Google Play.**
 
@@ -130,7 +130,7 @@ Backend architecture, REST APIs, database design, deployment, integrations and t
 
 ### 🟠 Quantox Bay
 
-Django based digital marketplace for selling downloadable products.
+Full stack Django marketplace for selling and managing digital products.
 
 **Django • DRF • PostgreSQL • Stripe • Docker**
 
@@ -152,7 +152,7 @@ Authentication, product management, payments, media handling and marketplace wor
 
 ### 🟡 MentorMate
 
-A Django based SaaS concept built for an entrepreneur to manage students and mentoring payments.
+Django based SaaS platform built for an entrepreneur to manage students, fees and payment reminders.
 
 **Django • PostgreSQL • Email**
 
@@ -170,7 +170,7 @@ Student management, fee tracking, payment status and one click email reminders f
 
 ### 🟣 Insight AI
 
-Final year AI project exploring image understanding and accessibility.
+Final year AI project exploring image understanding, search and accessibility.
 
 **Python • Streamlit • AI/ML**
 
@@ -189,7 +189,7 @@ Image search, live video captioning, video summarization and an accessibility fo
 
 ## 🧪 Experiments & Builds
 
-Smaller projects, prototypes and client builds where I explored different technologies and ideas.
+Smaller projects, prototypes and client builds where I explored different technologies, ideas and approaches.
 
 <table>
 <tr>
@@ -200,7 +200,7 @@ Smaller projects, prototypes and client builds where I explored different techno
 
 **React • Tauri • SQLite**
 
-Offline desktop ledger built for a client with local data storage, account management, reports and Excel backup.
+Client delivered offline desktop ledger with local data storage, account management, reports and Excel backup.
 
 </td>
 
@@ -224,7 +224,7 @@ Full stack AI image tagging and search using BLIP, spaCy and natural language qu
 
 **JavaScript • Chrome Extension • NLP**
 
-Browser extension using Hugging Face NLP to analyze sentiment and highlight web content.
+Browser extension using Hugging Face NLP to analyze sentiment and highlight web content in real time.
 
 </td>
 
@@ -234,8 +234,7 @@ Browser extension using Hugging Face NLP to analyze sentiment and highlight web 
 
 **JavaScript • Cryptography • Web**
 
-Browser based tool for hiding and extracting messages through image and linguistic steganography.
-
+Browser based tool for hiding and extracting messages using image and linguistic steganography.
 </td>
 
 </tr>
@@ -248,7 +247,7 @@ Browser based tool for hiding and extracting messages through image and linguist
 
 **Java • Swing • MySQL • JDBC**
 
-Desktop application exploring Java, OOP and database driven application development.
+Desktop application exploring Java, OOP and database driven application development with MySQL.
 
 </td>
 
@@ -258,7 +257,7 @@ Desktop application exploring Java, OOP and database driven application developm
 
 **React • Node.js • MongoDB • JWT**
 
-Full stack note taking application with authentication and CRUD functionality.
+Full stack note taking application with JWT authentication, CRUD operations and MongoDB.
 
 </td>
 
