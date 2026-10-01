@@ -52,7 +52,7 @@
 
 ## 🤖 AI & Modern Development
 
-I use AI as part of the development process, from integrating AI capabilities into applications to accelerating implementation, debugging and prototyping.
+I actively experiment with AI tools, APIs and AI assisted development to build faster, prototype ideas and explore how intelligent features can become part of real applications.
 
 <table>
 <tr>
@@ -60,12 +60,12 @@ I use AI as part of the development process, from integrating AI capabilities in
 
 ### AI Integration
 
-• OpenAI APIs and content moderation  
+• OpenAI APIs and moderation  
 • Google APIs and location services  
 • AI powered application features  
-• API based AI experimentation  
-• Prompt driven application workflows  
-• Practical LLM integrations  
+• AI APIs and external model experimentation  
+• Prompt driven workflows  
+• Practical AI features inside applications  
 
 </td>
 
@@ -74,17 +74,17 @@ I use AI as part of the development process, from integrating AI capabilities in
 ### AI Assisted Development
 
 • AI assisted coding workflows  
+• Rapid prototyping with AI tools  
 • Prompt engineering  
-• Rapid application prototyping  
-• AI assisted debugging and implementation  
-• Exploring different coding agents and tools  
-• Turning ideas into working prototypes quickly  
+• AI supported debugging and implementation  
+• Exploring LLM based workflows  
+• Using coding agents to accelerate development  
 
 </td>
 </tr>
 </table>
 
-> I treat AI as a practical development tool: something that can improve how software is built, while still understanding and owning the underlying application, architecture and implementation.
+> I enjoy experimenting with AI as part of the development process, from integrating AI capabilities into applications to using modern AI tools to prototype, debug and ship software faster.
 
 ---
 
@@ -103,22 +103,7 @@ Production local services marketplace built with Django.
 
 **Django • DRF • PostgreSQL • Render • Cloudflare R2**
 
-Backend architecture, REST APIs, database design, deployment, storage, integrations and team coordination.
-
-<details>
-<summary>📖 Read more</summary>
-
-Built and managed the backend of a production marketplace designed to connect people with local work opportunities.
-
-Responsibilities included backend architecture, API development, PostgreSQL database design, production deployment and server configuration.
-
-Integrated OpenAI content moderation, Google location services and Cloudflare R2 for image storage.
-
-Led backend development while coordinating a team across backend, frontend and UI/UX development.
-
-</details>
-
-<br>
+Backend architecture, REST APIs, database design, deployment, integrations and team coordination.
 
 <a href="YOUR_GID_PROJECT_LINK">📂 Explore Project</a>
 
@@ -134,20 +119,45 @@ Django based digital marketplace for selling downloadable products.
 
 **Django • PostgreSQL • Stripe • Docker**
 
-Full stack marketplace with authentication, product management, payments and media handling.
-
-<details>
-<summary>📖 Read more</summary>
-
-A full stack Django marketplace built to explore real world e commerce workflows.
-
-Implemented authentication, product management, digital product handling, Stripe payments, database integration and media management.
-
-</details>
-
-<br>
+Authentication, product management, payments, media handling and marketplace workflows.
 
 <a href="https://github.com/vedantmpatil/Quantoxbay">📂 Explore Project</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="mentormate.png" alt="MentorMate" width="100%" height="220">
+
+### 🟢 MentorMate
+
+A Django based SaaS concept built for an entrepreneur to manage students and mentoring payments.
+
+**Django • PostgreSQL • Email**
+
+Student management, fee tracking, payment status and one click email reminders for parents.
+
+<a href="YOUR_MENTORMATE_REPO_LINK">📂 Explore Project</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="insightai.png" alt="Insight AI" width="100%" height="220">
+
+### 🔵 Insight AI
+
+Final year AI project exploring image understanding and accessibility.
+
+**Python • Streamlit • AI/ML**
+
+Image search, live video captioning, video summarization and an accessibility focused use case.
+
+<a href="https://github.com/vedantmpatil/live_video_captioning">📂 Explore Project</a>
 
 </td>
 
@@ -156,66 +166,30 @@ Implemented authentication, product management, digital product handling, Stripe
 
 ---
 
-# 🧪 Selected Builds & Experiments
+## 🧪 Experiments & Builds
 
-A collection of client work, application experiments and projects that helped me explore different areas of software development.
+Smaller projects, prototypes and client builds where I explored different technologies and ideas.
 
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="quickhisab.png" alt="Quick Hisab" width="100%" height="220">
+### 💰 Quick Hisab
 
-### 🟡 Quick Hisab
+**React • Tauri • SQLite**
 
-Offline desktop ledger application built for a client.
-
-**React • Tauri • SQLite • AI Assisted Development**
-
-A private offline application for managing accounts, daily transactions, balances and backups.
-
-<details>
-<summary>📖 Read more</summary>
-
-Built as a client project with a React frontend and Tauri desktop packaging.
-
-The application uses a local SQLite database and focuses on privacy, offline usage and simple financial record management.
-
-Development involved AI assisted workflows, rapid prototyping and implementation using modern coding tools and agents.
-
-</details>
-
-<br>
-
-<a href="YOUR_QUICK_HISAB_REPO_LINK">📂 Explore Project</a>
+Offline desktop ledger built for a client, with local data storage, account management, reports and Excel backup.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="mentormate.png" alt="MentorMate" width="100%" height="220">
+### 🎵 SBVify
 
-### 🟢 MentorMate
+**React • JavaScript**
 
-Django based mentoring management platform built for an entrepreneur.
-
-**Django • PostgreSQL • Email**
-
-Student management, fee tracking, payment status and automated email reminders.
-
-<details>
-<summary>📖 Read more</summary>
-
-A mini SaaS concept designed for teachers, tutors and coaches to manage students and their payment records.
-
-Built features for student management, fee tracking, payment status and one click email reminders to parents.
-
-</details>
-
-<br>
-
-<a href="YOUR_MENTORMATE_REPO_LINK">📂 Explore Project</a>
+Simple web based music player built to explore frontend development and interactive UI.
 
 </td>
 
@@ -223,68 +197,34 @@ Built features for student management, fee tracking, payment status and one clic
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="insightai.jpeg" alt="Insight AI" width="100%" height="220">
-
-### 🔵 Insight AI
-
-AI and accessibility focused final year project.
-
-**Python • Streamlit • Computer Vision • AI/ML**
-
-Image search, live video captioning and video summarization explored through a single application.
-
-<details>
-<summary>📖 Read more</summary>
-
-The project explored multiple AI assisted capabilities:
-
-• Query based image search  
-• Live video captioning  
-• Video summarization  
-• Object and environment description  
-• Accessibility focused use cases  
-
-The interface was built using Streamlit while the AI functionality was explored through existing models and external resources.
-
-</details>
-
-<br>
-
-<a href="https://github.com/vedantmpatil/live_video_captioning">📂 Explore Project</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<img src="hotelease.png" alt="Hotel Management System" width="100%" height="220">
-
-### 🟠 Hotel Management System
-
-Desktop hotel management application built while exploring Java application development.
+### 🏨 Hotel Management System
 
 **Java • Swing • MySQL • JDBC**
 
-Reception, administration, employee management, room tracking and hotel operations.
+Desktop application exploring Java development with room, reception and employee management.
 
-<details>
-<summary>📖 Read more</summary>
+</td>
 
-A Java Swing desktop application designed around common hotel management workflows.
+<td width="50%" valign="top">
 
-Implemented modules for reception, administration, employee management, room tracking and database operations using MySQL and JDBC.
+### 🍽️ Share My Dish
 
-</details>
+**React • JavaScript**
 
-<br>
-
-<a href="https://github.com/vedantmpatil/Hotel-Management-System-">📂 Explore Project</a>
+A web development project built to explore frontend interfaces and application workflows.
 
 </td>
 
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/vedantmpatil?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
