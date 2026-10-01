@@ -118,7 +118,7 @@ Backend architecture, REST APIs, database design, deployment, integrations and t
 
 **Live application available on Google Play.**
 
-<a href="YOUR_GID_PROJECT_LINK">
+<a href="https://github.com/getitdonevs112-vs/gid-backend-prod">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
