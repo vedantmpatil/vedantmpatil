@@ -64,6 +64,7 @@
 
 ---
 
+
 ## AI & Modern Development
 
 I use AI both as a development tool and as a building block for software, from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
@@ -73,46 +74,37 @@ I use AI both as a development tool and as a building block for software, from r
 
 <td width="33%" valign="top">
 
-<h3>
-<img src="https://skillicons.dev/icons?i=openai" width="24" height="24" valign="middle">
- AI Integration
-</h3>
+### AI Integration
 
 • OpenAI APIs & moderation  
 • Google APIs & services  
 • AI powered application features  
-• Computer vision & image understanding  
+• Computer vision & image AI  
 • External AI model experimentation  
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>
-<img src="https://skillicons.dev/icons?i=github" width="24" height="24" valign="middle">
- AI Assisted Development
-</h3>
+### AI Assisted Development
 
 • AI coding assistants & agents  
-• Rapid UI and product prototyping  
-• AI assisted debugging  
+• Rapid UI & product prototyping  
+• AI assisted debugging & testing  
 • Code generation & refinement  
-• Workflow automation  
+• Development workflow automation  
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>
-<img src="https://skillicons.dev/icons?i=lovable" width="24" height="24" valign="middle">
- Tools & Experimentation
-</h3>
+### Tools & Experimentation
 
-• Lovable  
-• AI coding agents  
-• ChatGPT  
-• AI APIs & models  
+• ChatGPT & Claude  
+• Lovable & AI coding agents  
+• AI APIs & external models  
 • Rapid prototyping workflows  
+• New AI tools & workflows  
 
 </td>
 
@@ -120,8 +112,6 @@ I use AI both as a development tool and as a building block for software, from r
 </table>
 
 > **I treat AI as a force multiplier, not a replacement for engineering fundamentals. I use it to work smarter, prototype faster, solve problems, and continuously stay current with modern development.**
-
----
 
 ---
 
