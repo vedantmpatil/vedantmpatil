@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="profilebg.png" alt="Vedant Patil Banner" />
 </p>
@@ -26,222 +25,168 @@
   <a href="https://instagram.com/vedantpatilofficial">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://wa.me/917721837807">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
----
+<br>
 
-## 🧠 Tech Arsenal
+<h2>🧠 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,sqlite,docker,git,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,java,postgres,mysql,sqlite,docker,cloudflare,git,html,css,tailwind" />
 </p>
 
 <p align="center">
   <em>Backend APIs • Full Stack Applications • Databases • Integrations • Deployment</em>
 </p>
 
----
+<br>
 
-## 👨‍💻 A Little About Me
+<h2>👨‍💻 A Little About Me</h2>
 
+<p>
 I'm a full stack developer with a strong interest in backend development
 and building complete applications from idea to production.
+</p>
 
-My main focus is **Python and Django**, with **React** for frontend
-development and **Java** as another language I've worked extensively
-with.
+<p>
+My main focus is <strong>Python and Django</strong>, with
+<strong>React</strong> for frontend development and
+<strong>Java</strong> as another language I've worked extensively with.
+</p>
 
+<p>
 I enjoy working with APIs, databases, integrations, deployment and
 figuring out how different pieces of an application come together.
-
-I've also been experimenting with AI tools and APIs as part of both
-software development and application features.
-
----
-
-## 🚀 Featured Projects
-
-### 🟢 Get It Done
-
-<p align="center">
-  <img src="getitdone.png" alt="Get It Done" width="90%" />
+I've also experimented with AI APIs and AI powered developer tools
+across different projects.
 </p>
 
-<p align="center">
-  <strong>Production local services marketplace built with Django.</strong>
-</p>
+<br>
+
+<h2>🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
-</p>
-
-A production application built with a team, where I led the backend
-development and worked across architecture, APIs, database, deployment
-and integrations.
-
-**Worked on**
-
-• Backend architecture and REST APIs  
-• PostgreSQL database and data models  
-• Production deployment and Render infrastructure  
-• Cloudflare R2 media storage  
-• OpenAI API based content moderation  
-• Google location services  
-• WebSocket functionality  
-• Backend development and team coordination  
-
-<p align="center">
-  <a href="YOUR_GID_PROJECT_PAGE">
-    📂 Project Details
+  <a href="YOUR_GID_PROJECT_LINK">
+    <img src="getitdone.png" alt="Get It Done" width="47%" />
   </a>
-</p>
-
----
-
-### 🟣 Quantox Bay
-
-<p align="center">
-  <img src="quantoxbay.png" alt="Quantox Bay" width="90%" />
-</p>
-
-<p align="center">
-  <strong>Django powered marketplace for digital products.</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
-</p>
-
-A full stack marketplace built to explore real world application
-development with product management, payments and media handling.
-
-**Built with**
-
-• Django  
-• PostgreSQL  
-• Stripe  
-• Cloudinary  
-• Docker  
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/vedantmpatil/Quantoxbay">
-    📂 View Repository
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://quantoxbay.onrender.com">
-    🌐 Live Demo
+    <img src="quantoxbay.png" alt="Quantox Bay" width="47%" />
   </a>
 </p>
 
----
-
-### 🔵 Live Video Captioning
-
 <p align="center">
-  <img src="livecaptioning.png" alt="Live Video Captioning" width="90%" />
+  <strong>🟢 Get It Done</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🟣 Quantox Bay</strong>
 </p>
 
 <p align="center">
-  <strong>Python based project exploring real time video captioning.</strong>
+  Production Django marketplace
+  &nbsp; • &nbsp;
+  Django digital marketplace
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <a href="YOUR_GID_PROJECT_LINK">📖 Read More</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vedantmpatil/Quantoxbay">📖 Read More</a>
 </p>
 
-An exploration into video processing, speech recognition and generating
-captions from live video.
+<br>
 
 <p align="center">
   <a href="https://github.com/vedantmpatil/live_video_captioning">
-    📂 View Repository
+    <img src="livecaptioning.png" alt="Live Video Captioning" width="47%" />
   </a>
-</p>
-
----
-
-### 🟠 Hotel Management System
-
-<p align="center">
-  <img src="hotelease.png" alt="Hotel Management System" width="90%" />
-</p>
-
-<p align="center">
-  <strong>Java desktop application for hotel management.</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
-</p>
-
-A Java Swing application with MySQL for managing hotel rooms,
-reception, staff and administrative operations.
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/vedantmpatil/Hotel-Management-System-">
-    📂 View Repository
+    <img src="hotelease.png" alt="Hotel Management System" width="47%" />
   </a>
 </p>
 
----
-
-## 🧪 Experiments & Other Builds
-
-A collection of smaller projects, experiments and ideas I've explored
-across web development, AI, APIs and desktop applications.
-
-**Quick Hisab** · Offline desktop ledger built with React, Tauri and
-SQLite, with Excel backup and export workflows.
-
-**PepperChronicles** · React based news application using external APIs.
-
-**iNoteBook** · Full stack note taking application built with React,
-Node.js and MongoDB.
-
-**Sentiment Highlighter** · Chrome extension experimenting with
-sentiment analysis through the Hugging Face API.
-
-**Steganography** · Browser based experiment exploring image and text
-steganography.
-
-**Ecommerce Web App** · React based frontend eCommerce project.
-
-[View all repositories →](https://github.com/vedantmpatil?tab=repositories)
-
----
-
-## 🤖 AI & Automation
-
-I've been experimenting with AI both **inside applications** and as a
-tool for building software.
-
-### Application Integrations
-
-• OpenAI API for content moderation in Get It Done  
-• Google APIs for location based functionality  
-• Hugging Face NLP API for sentiment analysis  
-
-### Developer & Workflow Automation
-
-• Built a Copilot based agent for automatically preparing structured
-ticket updates from short progress inputs  
-• Experimented with AI assisted development workflows across projects  
-• Used AI tools to rapidly prototype interfaces, application flows and
-product ideas  
-
-I'm particularly interested in the practical side of AI: using APIs,
-automation and developer tools to make real software faster and more
-useful.
-
----
-
-## 🌱 Currently Learning
-
 <p align="center">
-  <strong>Django • Backend Architecture • PostgreSQL • API Design • Testing • AI Applications</strong>
+  <strong>🔵 Live Video Captioning</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🟠 Hotel Management</strong>
 </p>
 
----
+<p align="center">
+  Python video captioning
+  &nbsp; • &nbsp;
+  Java Swing + MySQL
+</p>
+
+<p align="center">
+  <a href="https://github.com/vedantmpatil/live_video_captioning">📖 Read More</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vedantmpatil/Hotel-Management-System-">📖 Read More</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vedantmpatil?tab=repositories">
+    <strong>🔎 Explore All Repositories</strong>
+  </a>
+</p>
+
+<br>
+
+<h2>🤖 AI & Automation</h2>
+
+<p>
+I've been experimenting with AI both inside applications and as a
+development tool.
+</p>
+
+<ul>
+  <li>OpenAI API for content moderation in Get It Done</li>
+  <li>Google APIs for location based functionality</li>
+  <li>Hugging Face NLP API for sentiment analysis</li>
+  <li>Built a Copilot based agent to structure internal ticket updates</li>
+  <li>Experimented with AI assisted development across multiple projects</li>
+  <li>Used AI tools to rapidly prototype interfaces, application flows and ideas</li>
+</ul>
+
+<p>
+I enjoy the practical side of AI, especially using APIs and automation
+to make real software more useful and development workflows more efficient.
+</p>
+
+<br>
+
+<h2>🧪 Experiments & Side Builds</h2>
+
+<p>
+I've built and experimented with a range of smaller projects across web
+development, APIs, AI, desktop applications and product ideas.
+</p>
+
+<p align="center">
+  <strong>Quick Hisab</strong> · React + Tauri + SQLite desktop ledger
+  &nbsp; • &nbsp;
+  <strong>PepperChronicles</strong> · React + News API
+  &nbsp; • &nbsp;
+  <strong>iNoteBook</strong> · React + Node.js + MongoDB
+</p>
+
+<p align="center">
+  <strong>Sentiment Highlighter</strong> · Chrome extension + NLP API
+  &nbsp; • &nbsp;
+  <strong>Steganography</strong> · Browser based security experiment
+  &nbsp; • &nbsp;
+  <strong>Ecommerce Web App</strong> · React
+</p>
+
+<p align="center">
+  <a href="https://github.com/vedantmpatil?tab=repositories">
+    🔎 Explore more experiments and projects
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <em>Still learning. Still building. Still shipping. 🚀</em>
