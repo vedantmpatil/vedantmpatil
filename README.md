@@ -128,7 +128,7 @@ Backend architecture, REST APIs, database design, deployment, integrations and t
 
 <img src="quantoxbay.png" alt="Quantox Bay" width="100%" height="220" />
 
-### 🟣 Quantox Bay
+### 🟠 Quantox Bay
 
 Django based digital marketplace for selling downloadable products.
 
@@ -168,7 +168,7 @@ Student management, fee tracking, payment status and one click email reminders f
 
 <img src="insightai.jpeg" alt="Insight AI" width="100%" height="220" />
 
-### 🟠 Insight AI
+### 🟣 Insight AI
 
 Final year AI project exploring image understanding and accessibility.
 
