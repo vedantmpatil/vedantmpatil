@@ -62,43 +62,66 @@
 </tr>
 </table>
 
-## 🤖 AI & Modern Development
+---
 
-I actively experiment with AI tools, APIs and AI assisted development to build faster, prototype ideas and explore how intelligent features can become part of real applications.
+## AI & Modern Development
+
+I use AI both as a development tool and as a building block for software, from rapid prototyping and assisted coding to integrating AI capabilities into real applications.
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
----
+<td width="33%" valign="top">
 
-### AI Integration
+<h3>
+<img src="https://skillicons.dev/icons?i=openai" width="24" height="24" valign="middle">
+ AI Integration
+</h3>
 
-• OpenAI APIs and moderation  
-• Google APIs and location services  
+• OpenAI APIs & moderation  
+• Google APIs & services  
 • AI powered application features  
-• AI APIs and external model experimentation  
-• Prompt driven workflows  
-• Practical AI features inside applications  
+• Computer vision & image understanding  
+• External AI model experimentation  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### AI Assisted Development
+<h3>
+<img src="https://skillicons.dev/icons?i=github" width="24" height="24" valign="middle">
+ AI Assisted Development
+</h3>
 
-• AI assisted coding workflows  
-• Rapid prototyping with AI tools  
-• Prompt engineering  
-• AI supported debugging and implementation  
-• Exploring LLM based workflows  
-• Using coding agents to accelerate development  
+• AI coding assistants & agents  
+• Rapid UI and product prototyping  
+• AI assisted debugging  
+• Code generation & refinement  
+• Workflow automation  
 
 </td>
+
+<td width="33%" valign="top">
+
+<h3>
+<img src="https://skillicons.dev/icons?i=lovable" width="24" height="24" valign="middle">
+ Tools & Experimentation
+</h3>
+
+• Lovable  
+• AI coding agents  
+• ChatGPT  
+• AI APIs & models  
+• Rapid prototyping workflows  
+
+</td>
+
 </tr>
 </table>
 
-> I enjoy experimenting with AI as part of the development process, from integrating AI capabilities into applications to using modern AI tools to prototype, debug and ship software faster.
+> **I treat AI as a force multiplier, not a replacement for engineering fundamentals. I use it to work smarter, prototype faster, solve problems, and continuously stay current with modern development.**
+
+---
 
 ---
 
