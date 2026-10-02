@@ -74,7 +74,7 @@
 
 ### 🟢 Get It Done
 
-Production local services marketplace built with Django and REST APIs.
+Live local work marketplace built with Django and REST APIs.
 
 **Django • DRF • PostgreSQL • Render • Cloudflare R2**
 
