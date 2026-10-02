@@ -128,7 +128,9 @@ Django based SaaS platform built for an entrepreneur to manage students, fees an
 
 **Django • PostgreSQL • Email**
 
-Student management, fee tracking, payment status and one click email reminders for parents.
+Designed a practical workflow for managing student information, fee records and payment-related follow-ups.
+
+Focused on building a structured application with clear data management, useful workflows and automated communication.
 
 <a href="https://github.com/vedantmpatil/MentorMate">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -146,7 +148,9 @@ Final year AI project exploring image understanding, search and accessibility.
 
 **Python • Streamlit • AI/ML**
 
-Image search, live video captioning, video summarization and an accessibility focused use case.
+Explored practical AI applications through image-based processing, search and accessibility-focused features.
+
+Combined multiple AI concepts into an interactive application to experiment with real-world computer vision and multimedia use cases.
 
 <a href="https://github.com/vedantmpatil/live_video_captioning">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
