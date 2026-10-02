@@ -78,7 +78,11 @@ Production local services marketplace built with Django and REST APIs.
 
 **Django • DRF • PostgreSQL • Render • Cloudflare R2**
 
-Backend architecture, API design, database design, integrations, deployment and technical coordination across the team.
+Backend architecture, REST API design, database design, cloud storage, third-party integrations and deployment.
+
+Designed and developed backend systems supporting user accounts, task workflows, location-based functionality and marketplace operations.
+
+Technical coordination across the team, from backend development and infrastructure setup to production deployment.
 
 **Live application available on Google Play.**
 
@@ -98,7 +102,11 @@ Full stack Django marketplace for selling and managing digital products.
 
 **Django • DRF • PostgreSQL • Stripe • Docker**
 
-Authentication, product management, payments, media handling and marketplace workflows.
+Full-stack implementation covering authentication, product management, Stripe payments, media handling, database workflows and deployment with Docker.
+
+Built the core marketplace flow from product creation and management through checkout and payment processing.
+
+Worked across backend APIs, database models, frontend integration and external services to bring the application together end-to-end.
 
 <a href="https://github.com/vedantmpatil/Quantoxbay">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
