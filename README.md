@@ -62,42 +62,6 @@
 
 ---
 
-## ⚡ AI & Modern Development
-
-I use AI both as a development tool and a building block for software, from rapid prototyping and assisted development to integrating AI capabilities into real applications.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01 · INTEGRATE**
-
-OpenAI APIs • Google APIs • Computer Vision • AI-powered Features
-
-</td>
-
-<td width="33%" valign="top">
-
-**02 · BUILD & ASSIST**
-
-ChatGPT • Claude • Coding Agents • Lovable • AI-assisted Development
-
-</td>
-
-<td width="33%" valign="top">
-
-**03 · EXPERIMENT**
-
-AI APIs • External Models • Rapid Prototyping • Automation
-
-</td>
-</tr>
-</table>
-
-> **AI is a force multiplier, not a replacement for engineering fundamentals.**  
-> I use it to work smarter, prototype faster, solve problems, and keep pace with modern development.
-
----
 
 # 🚀 Featured Projects
 
@@ -186,6 +150,44 @@ Image search, live video captioning, video summarization and an accessibility fo
 </table>
 
 ---
+
+## ⚡ AI & Modern Development
+
+I use AI both as a development tool and a building block for software, from rapid prototyping and assisted development to integrating AI capabilities into real applications.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 · INTEGRATE**
+
+OpenAI APIs • Google APIs • Computer Vision • AI-powered Features
+
+</td>
+
+<td width="33%" valign="top">
+
+**02 · BUILD & ASSIST**
+
+ChatGPT • Claude • Coding Agents • Lovable • AI-assisted Development
+
+</td>
+
+<td width="33%" valign="top">
+
+**03 · EXPERIMENT**
+
+AI APIs • External Models • Rapid Prototyping • Automation
+
+</td>
+</tr>
+</table>
+
+> **AI is a force multiplier, not a replacement for engineering fundamentals.**  
+> I use it to work smarter, prototype faster, solve problems, and keep pace with modern development.
+
+---
+
 
 ## 🧪 Experiments & Builds
 
